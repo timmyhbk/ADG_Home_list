@@ -2,4 +2,6 @@
 @@||googleads.g.doubleclick.net^
 @@||googletagservices.com^
 @@||pagead2.googleadservices.com^
+@@||pagead2.googlesyndication.com^
+@@||tpc.googlesyndication.com^
 
