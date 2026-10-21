@@ -1,7 +1,7 @@
 ! our note ad
-@@||googleads.g.doubleclick.net^
-@@||googletagservices.com^
-@@||pagead2.googleadservices.com^
-@@||pagead2.googlesyndication.com^
-@@||tpc.googlesyndication.com^
+@@||googleads.g.doubleclick.net^$important
+@@||googletagservices.com^$important
+@@||pagead2.googleadservices.com^$important
+@@||pagead2.googlesyndication.com^$important
+@@||tpc.googlesyndication.com^$important
 
