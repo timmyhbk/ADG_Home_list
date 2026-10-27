@@ -1,5 +1,7 @@
 ! our note ad
 @@||googleads.g.doubleclick.net^$important
+@@||goose.yatse.tv^$important
+@@||googleads.g.doubleclick.net^$important
 @@||googletagservices.com^$important
 @@||pagead2.googleadservices.com^$important
 @@||pagead2.googlesyndication.com^$important
