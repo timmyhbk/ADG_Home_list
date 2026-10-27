@@ -4,4 +4,6 @@
 @@||pagead2.googleadservices.com^$important
 @@||pagead2.googlesyndication.com^$important
 @@||tpc.googlesyndication.com^$important
-
+@@||cdn-f.adsmoloco.com^$important
+@@||eventfnt-asia.dsp-api.moloco.com^$important
+@@||noti-asia.adsmoloco.com^$important
